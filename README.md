@@ -1,2 +1,2 @@
-# ljz.github.io
+# ric.github.io
 personalBlog
